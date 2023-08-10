@@ -1,0 +1,8 @@
+CREATE TABLE table_name (
+	id serial NOT NULL,
+	field_name field_dataType field_default,
+	field_name field_dataType field_default
+);
+
+INSERT INTO table_name (field_name,field_name) VALUES ('data','data');
+
